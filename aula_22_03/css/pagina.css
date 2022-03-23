@@ -1,0 +1,44 @@
+section {
+    width: 850px;
+    background-color: aliceblue;
+    text-align: left;
+    margin-left: 200px;
+    height: auto;
+}
+
+header {
+    width: 850px;
+    height: 100px;
+    background-color: rgb(29, 197, 141);
+}
+
+#subtitulo {
+    width: 850px;
+    height: 90px;
+    background-color: aquamarine;
+}
+
+h1 {
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: blue;
+}
+
+#coluna-1 {
+    float: left;
+    width: 200px;
+    text-align: left;
+    font-size: 20px;
+    height: 400px;
+    background-color: brown;
+    color: aliceblue;
+}
+
+.rodape {
+    width: 850px;
+    height: 50px;
+    float: left;
+    background-color: cornflowerblue;
+}
+
